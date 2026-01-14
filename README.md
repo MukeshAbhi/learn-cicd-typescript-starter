@@ -1,6 +1,4 @@
-[![CI Status](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)](
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>
-)
+https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
 
 # learn-cicd-typescript-starter (Notely)
 
