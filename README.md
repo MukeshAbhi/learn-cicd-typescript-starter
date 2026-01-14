@@ -1,4 +1,4 @@
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+[![CI Status](https://github.com/MukeshAbhi/learn-cicd-typescript-starter/actions/workflows/ci.yaml/badge.svg)](https://github.com/MukeshAbhi/learn-cicd-typescript-starter/actions/workflows/ci.yaml)
 
 # learn-cicd-typescript-starter (Notely)
 
